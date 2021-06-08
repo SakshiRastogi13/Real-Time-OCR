@@ -3,5 +3,5 @@ opencv_python==4.1.2.30
 matplotlib==3.1.1
 editdistance==0.5.3
 nltk==3.4.5
-Pillow==7.0.0
+Pillow==8.2.0
 tensorflow==2.1.0
